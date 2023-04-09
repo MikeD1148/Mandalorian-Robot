@@ -20,17 +20,17 @@ Download and upload the Arduino code to your Arduino.
 
 ## Circuit Setup
 You will need:
-2 XBee Wireless Modules,
-4 Servo Motors,
-1 DC Motor,
-Bread Board,
-2 9V Power Supplies,
-1 6V Power Supply,
-Arduino,
-4 100uF 25V Capacitors,
-1 MOSFET,
-1 1N4007 Diode,
-Lots of Cables.
+1.2 XBee Wireless Modules
+2.4 Servo Motors
+3.1 DC Motor
+4.Bread Board
+5.2 9V Power Supplies
+6.1 6V Power Supply
+7.Arduino
+8.4 100uF 25V Capacitors
+9.1 MOSFET
+10.1 1N4007 Diode
+11.Lots of Cables
 
 Connect the 4 Servos to the 6V Power Supply. Place a Capacitor after each servo to reduce voltage spikes. Connect the DC Motor to a 9V Power Supply through the MOSFET. Wire up the diode to the MOSFET in parallel. Connect a 9V Power Supply to the Arduino. Power the XBee using the 5V Arduino Pin and data transfer through the TX RX Pins. Connect the PWM Pins to each Servo Motor and MOSFET. Connect each Power Supply to a common ground (Arduino).
 
