@@ -37,7 +37,5 @@ Connect the 4 Servos to the 6V Power Supply. Place a Capacitor after each servo 
 ![20230409_130049](https://user-images.githubusercontent.com/75023206/230771348-4cdb6f48-1caf-45d1-a5ac-844c75049fc7.jpg)
 
 ## References
-Reading mouse movement in Processing
-https://processing.org/reference/mouseX.html
-Using a timer in Processing
-https://processing.org/reference/millis_.html
+* Reading mouse movement in Processing https://processing.org/reference/mouseX.html
+* Using a timer in Processing https://processing.org/reference/millis_.html
