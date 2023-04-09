@@ -15,7 +15,7 @@ Download and run the .pde file. Ensure both UltraLeap Gemini and Leap Mouse Mapp
 ## Arduino Script
 Download and upload the Arduino code to your Arduino.
 
-# Circuit Setup
+## Circuit Setup
 You will need:
 2 XBee Wireless Modules
 4 Servo Motors
