@@ -20,9 +20,9 @@ Download and upload the Arduino code to your Arduino.
 
 ## Circuit Setup
 You will need:
-1.2 XBee Wireless Modules
-2.4 Servo Motors
-3.1 DC Motor
+1.  2 XBee Wireless Modules
+2.  4 Servo Motors
+3.  1 DC Motor
 4.Bread Board
 5.2 9V Power Supplies
 6.1 6V Power Supply
