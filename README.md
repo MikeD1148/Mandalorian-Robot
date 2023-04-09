@@ -37,7 +37,7 @@ Connect the 4 Servos to the 6V Power Supply. Place a Capacitor after each servo 
 ![20230409_130049](https://user-images.githubusercontent.com/75023206/230771348-4cdb6f48-1caf-45d1-a5ac-844c75049fc7.jpg)
 
 ### Wave infront of the Leap Motion Controller to test the Robot.
-The Robot will fire his blaster wave his lightsaber and jiggle his body. The Planets will also spin. The robot will do this each time you wave at it.
+The Robot will fire his blaster wave his lightsaber and jiggle his body. The Planets will also spin. The robot will do this each time you wave at him.
 
 ## References
 * Reading mouse movement in Processing https://processing.org/reference/mouseX.html
