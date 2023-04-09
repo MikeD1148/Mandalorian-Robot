@@ -1,21 +1,21 @@
 # Mandalorian-Robot
 Deliverable for Robotics-2. Includes GUI mouse movement and wireless request program , Arduino wireless input script that moves Servo/DC motors, electronics setup tutorial, link to Leap Motion Controller cursor movement mapper repo.
 
-### Repository to Map Mouse Movement to Leap Motion Controller Hand Inputs
+## Repository to Map Mouse Movement to Leap Motion Controller Hand Inputs
 Download and run .exe with Ultra Leap also running
 https://github.com/glenmurphy/fingers/releases/tag/v0.9.3
 
-### Ultraleap Gemini
+## Ultraleap Gemini
 Download and run UltraLeaps software
 https://developer.leapmotion.com/tracking-software-download
 
-### Processing GUI
+## Processing GUI
 Download and run the .pde file. Ensure both UltraLeap Gemini and Leap Mouse Mapper are running.
 
-### Arduino Script
+## Arduino Script
 Download and upload the Arduino code to your Arduino.
 
-### Circuit Setup
+# Circuit Setup
 You will need:
 2 XBee Wireless Modules
 4 Servo Motors
