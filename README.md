@@ -30,4 +30,5 @@ Arduino
 Lots of Cables
 
 Connect the 4 Servos to the 6V Power Supply. Place a Capacitor after each servo to reduce voltage spikes. Connect the DC Motor to a 9V Power Supply through the MOSFET. Wire up the diode to the MOSFET in parallel. Connect a 9V Power Supply to the Arduino. Power the XBee using the 5V Arduino Pin and data transfer through the TX RX Pins. Connect the PWM Pins to each Servo Motor and MOSFET. Connect each Power Supply to a common ground (Arduino).
-![]
+![20230409_130049](https://user-images.githubusercontent.com/75023206/230771348-4cdb6f48-1caf-45d1-a5ac-844c75049fc7.jpg)
+
